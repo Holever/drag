@@ -1,0 +1,24 @@
+{
+  "name": "@jshol/drag",
+  "version": "0.0.1",
+  "description": "js drag",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holever/drag.git"
+  },
+  "keywords": [
+    "js",
+    "drag",
+    "拖拽"
+  ],
+  "author": "holever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holever/drag/issues"
+  },
+  "homepage": "https://github.com/Holever/drag#readme"
+}
